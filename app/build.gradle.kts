@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.example.examen_yifei"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.example.examen_yifei"
